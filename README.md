@@ -1,5 +1,5 @@
 # RaspberryPi-SelfDriving-Logistics
-Raspberry Pi-based AI autonomous driving car for warehouse inventory management and logistics automation
+DDongkey – Raspberry Pi-based AI autonomous driving car for warehouse inventory management and logistics automation
 
 **Project Duration:** April 1, 2021 – April 20, 2021  
 
