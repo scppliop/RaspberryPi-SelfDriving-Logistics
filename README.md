@@ -6,6 +6,7 @@ DDongkey – Raspberry Pi-based AI autonomous driving car for warehouse inventor
 ---
 
 ## Project Overview  
+Vedio : 
 **Dongkey** is an **autonomous inventory management robot** that leverages AI and self-driving technology for efficient warehouse operations.  
 It navigates warehouses, automatically detects inventory, calculates required stock, and generates management reports.  
 
